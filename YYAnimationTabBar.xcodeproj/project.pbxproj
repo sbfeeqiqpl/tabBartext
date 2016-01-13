@@ -8,10 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		FCF5596D1BDF5DE900A8D7BD /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FCF5596C1BDF5DE900A8D7BD /* QuartzCore.framework */; };
-		FCF559731BDF63D000A8D7BD /* icon_2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FCF5596F1BDF63D000A8D7BD /* icon_2@2x.png */; settings = {ASSET_TAGS = (); }; };
-		FCF559741BDF63D000A8D7BD /* icon_3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FCF559701BDF63D000A8D7BD /* icon_3@2x.png */; settings = {ASSET_TAGS = (); }; };
-		FCF559751BDF63D000A8D7BD /* icon_4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FCF559711BDF63D000A8D7BD /* icon_4@2x.png */; settings = {ASSET_TAGS = (); }; };
-		FCF559771BDF665700A8D7BD /* icon_1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FCF559761BDF665700A8D7BD /* icon_1@2x.png */; settings = {ASSET_TAGS = (); }; };
+		FCF559731BDF63D000A8D7BD /* icon_2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FCF5596F1BDF63D000A8D7BD /* icon_2@2x.png */; };
+		FCF559741BDF63D000A8D7BD /* icon_3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FCF559701BDF63D000A8D7BD /* icon_3@2x.png */; };
+		FCF559751BDF63D000A8D7BD /* icon_4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FCF559711BDF63D000A8D7BD /* icon_4@2x.png */; };
+		FCF559771BDF665700A8D7BD /* icon_1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FCF559761BDF665700A8D7BD /* icon_1@2x.png */; };
 		FCF777391BDDD9450064A4EF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FCF777381BDDD9450064A4EF /* main.m */; };
 		FCF7773C1BDDD9450064A4EF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FCF7773B1BDDD9450064A4EF /* AppDelegate.m */; };
 		FCF777451BDDD9450064A4EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCF777431BDDD9450064A4EF /* Main.storyboard */; };
@@ -330,7 +330,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = YYAnimationTabBar/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = YY.YYAnimationTabBar;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -343,7 +343,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = YYAnimationTabBar/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = YY.YYAnimationTabBar;
 				PRODUCT_NAME = "$(TARGET_NAME)";
